@@ -1,0 +1,54 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  outline: 0;
+}
+.wrapper {
+  width: 300px;
+  height: 330px;
+  background: #7952b3;
+  margin: 0 auto;
+  padding: 50px;
+  margin-top: 100px;
+}
+.wrapper h1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.div-h1 h1 {
+  padding: 3px;
+  color: #ffffff;
+  outline: #ffffff;
+  font-size: 35px;
+}
+.wrapper label {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: rgb(0, 0, 0);
+}
+.wrapper .input-fild {
+  width: 250px;
+  height: 20px;
+  margin-top: 10px;
+  outline: none;
+  padding: 5px;
+  font-size: 16px;
+  background: rgb(209, 251, 255);
+}
+.wrapper .input-fild-result {
+  width: 183px;
+  height: 22px;
+  margin-top: 20px;
+  padding: 5px;
+  font-size: 16px;
+  background: rgb(209, 251, 255);
+}
+.button {
+  width: 49px;
+  height: 35px;
+  background: #31d2f2;
+  margin-top: 25px;
+}
